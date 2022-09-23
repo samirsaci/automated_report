@@ -42,7 +42,7 @@ Your solution will be a simple python script, deployed on the cloud, that will a
 3. Automatically send an HTML email with visuals and comments
 
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*ry72nFJTW_ncLBifsvUy5Q.png">
+  <img align="center" src="https://miro.medium.com/max/828/1*3MXAwPZrurHfLRrCM1wOKA.png">
 </p>
 
 ## Code
