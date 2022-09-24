@@ -1,4 +1,4 @@
-## Automate Operational Reports Distribution in HTML Emails using Python 📊
+## Automate Operational Reports Distribution in HTML Emails 📊
 *Automate the distribution of supply chain operational reports with visuals built in HTML emails with Python*
 
 <p align="center">
