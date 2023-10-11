@@ -12,10 +12,13 @@ Automate the decision-making process for the yearly budget allocation of an Inte
 In this [Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/),we will build a fully automated solution to share a one-page operational 
 report in an HTML email using Python.
 
+### 📘 Your complete guide for Supply Chain Analytics
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=mo3IjpSQBdc"><img src="https://i.ytimg.com/an_webp/mo3IjpSQBdc/mqdefault_6s.webp?du=3000&sqp=COKqnp8G&rs=AOn4CLCtotbqs0zoP3XB7H7xbj0N4lObDw" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=mo3IjpSQBdc"><img src="https://www.samirsaci.com/content/images/2023/10/image.png" alt="Explainer Video Link"></a>
 </div>
 
 
