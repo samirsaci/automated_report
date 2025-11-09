@@ -9,7 +9,7 @@
 Automate the decision-making process for the yearly budget allocation of an International Logistics Company.
 
 ### Article
-In this [Article](https://medium.com/towards-data-science/automate-operational-reports-distribution-in-html-emails-using-python-c65c66fc99a6),we will build a fully automated solution to share a one-page operational 
+In this [Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/),we will build a fully automated solution to share a one-page operational 
 report in an HTML email using Python.
 
 ### 📘 Your complete guide for Supply Chain Analytics
