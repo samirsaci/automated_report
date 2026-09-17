@@ -18,7 +18,7 @@ Automate the decision-making process for the yearly budget allocation of an Inte
 In this [Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/), we will build a fully automated solution to share a one-page operational report in an HTML email using Python.
 
 ### 📘 Your complete guide for Supply Chain Analytics
-60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://abstracted-hydrant-a3d.notion.site/Supply-Chain-Analytics-Cheat-Sheet-d449e3d53cfc45978aa889d3ef40f559?pvs=4)
 
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
@@ -87,7 +87,14 @@ python automated_report.py
 - pandas
 - matplotlib
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
-For more case studies, check my [Personal Website](https://samirsaci.com).
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Automate Operational Reports Distribution in HTML Emails using Python](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/?utm_source=github&utm_medium=readme&utm_campaign=automated_report)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=automated_report) has the analytics track, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=automated_report)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+
